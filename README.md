@@ -7,4 +7,4 @@ Les [réglages, c'est par là](../../settings).
 
 [Éditez ce fichier en cliquant ici](../../edit/master/README.md).
 
-Et mon site web par la : file:///C:/Users/Annabelle/Documents/In202Adam/new%20%202.html
+Et mon site web par la :
