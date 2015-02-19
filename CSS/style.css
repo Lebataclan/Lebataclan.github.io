@@ -5,14 +5,10 @@ img{float: right; height="400"}
 body{background-color: Black; color: White;}
 footer { width: 95%;margin: 2em auto;border-top: solid thin;}
 div{float: right; margin-right: 2cm; margin-top: 2px;}
+nav{border-style:solid; border-width: 2px; border-radius: 20px;}
 @media (max-width: 600px) {
     nav {
         background-color: red;
     }
 }
-
-@media (min-width: 600px) {
-    nav {
-        background-color: black;
-    }
-}
+nav{border-style:solid; border-width: 2px; border-radius: 20px;}
