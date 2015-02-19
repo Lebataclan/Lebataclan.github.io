@@ -1,5 +1,5 @@
 header{ text-align: center; font-size:200%;}
-h1{ text-decoration: underline;} 
+.h1{ text-decoration: underline;} 
 section{border-style:solid; border-width: 2px; margin-bottom: 3px;margin-right: 11cm;margin-left:9cm;  border-radius: 10px;}
 body{background-color: Gray; color: White;}
 footer { width: 95%;margin: 2em auto;border-top: solid thin;}
