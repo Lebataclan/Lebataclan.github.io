@@ -1,14 +1,7 @@
 header{ text-align: center;}
 #me {color: red;} 
-section{border-style:solid; border-width: 2px; margin-bottom: 2px;margin-right: 20cm;  border-radius: 25px;}
-img{float: right; height="400"}
+section{border-style:solid; border-width: 2px; margin-bottom: 2px;margin-right: 20cm;  border-radius: 10px;}
 body{background-color: Black; color: White;}
 footer { width: 95%;margin: 2em auto;border-top: solid thin;}
 div{float: right; margin-right: 2cm; margin-top: 2px;}
-nav{border-style:solid; border-width: 2px; border-radius: 20px;}
-@media (max-width: 600px) {
-    nav {
-        background-color: red;
-    }
-}
-nav{border-style:solid; border-width: 2px; border-radius: 20px;}
+nav{border-style:solid; border-width: 2px; border-radius: 20px; background-color: red; margin-right: 20cm;}
